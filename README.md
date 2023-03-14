@@ -2,7 +2,7 @@
 by Ana Alexandru and Duna Alexandru<br>
 <br>
 This is a silly little side-project that I share with a dear friend of mine.<br>
-This is not too serious of a project, and it's meant to be seen as a collection of modules that allow you to do a bunvh of things from the terminal<br>
+This is not too serious of a project, and it's meant to be seen as a collection of modules that allow you to do a bunch of things from the terminal / spend some time playing some games.<br>
 # Run
 To run MAMA OS you simply compile main.c and run the executable.<br>
 You will, then, be greeted by the "OS" genie - m@rius - who will help you set up the terminal the way you want.<br>
