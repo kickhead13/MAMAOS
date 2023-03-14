@@ -16,6 +16,6 @@ Basic disk management capabilities:<br>
 ## Better text editor
 We want to add an actual text editor. Most likely in the style of Vim or Nvim, to allow the user to not only overwrite their files but also just edit them.<br>
 ## More games
-More games such as chess, and maybe some more complex games such as some very old 20th century video game ports.<br>
+More games such as chess, and maybe some more complex games such as some very old 20th century video game ports: maybe pong, snake, maybe even tetris.<br>
 ## An online chat/forum for users
 This is a more far-fetched goal, but it would something cool to implement: a chat for MAMA OS users to use from within MAMA OS.
